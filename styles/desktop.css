@@ -159,8 +159,3 @@
     font-weight: bold;
     transition: all .2s ease-in-out;
 }
-
-.footer-social--item:hover {
-    background-color: brown;
-    border-radius: 50%;
-}
